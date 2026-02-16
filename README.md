@@ -1,6 +1,6 @@
-# 🎓 Sorteador de Grupos Escolar (Pro Edition)
+# 🎓 Sorteador de Grupos Escolar
 
-Uma ferramenta prática e imparcial desenvolvida em **Python** para auxiliar professores na formação de grupos em sala de aula. O sistema permite a entrada manual de dados ou o carregamento automatizado via arquivos de texto.
+Uma ferramenta prática e imparcial desenvolvida em **Python** para auxiliar professores na formação de grupos em sala de aula. O sistema permite a entrada manual de dados ou o carregamento automatizado via arquivos de texto (txt).
 
 ## 🧠 Contexto Pedagógico
 Como professor de matemática, entendo a importância da imparcialidade na dinâmica de grupo. Este software utiliza algoritmos de embaralhamento aleatório para garantir que a distribuição dos alunos seja puramente estatística, eliminando tendências e promovendo a integração da turma.
@@ -26,4 +26,5 @@ Como professor de matemática, entendo a importância da imparcialidade na dinâ
 ├── sorteador_grupos.py   # Script principal
 ├── alunos.txt            # Exemplo de lista de chamada (opcional)
 ├── LICENSE               # Licença do projeto
+
 └── README.md             # Documentação
